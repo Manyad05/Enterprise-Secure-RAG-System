@@ -1,0 +1,10 @@
+{
+    "finance_report.pdf": [
+        "admin",
+        "finance"
+    ],
+    "hr_policy.pdf": [
+        "admin",
+        "hr"
+    ]
+}
